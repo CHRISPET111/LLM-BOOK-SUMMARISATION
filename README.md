@@ -74,5 +74,5 @@ book_summary.txt: Summarized text of the PDF
 Q&A session in the terminal
 
 License
-MIT License (or choose your own)
+MIT License 
 
